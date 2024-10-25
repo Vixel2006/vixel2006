@@ -24,6 +24,7 @@ I’m a student at Kafr El-Sheikh University pursuing a degree in Artificial Int
 
 - **Deep Learning Specialization** by Andrew Ng on Coursera
 - **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
+- **Red Teaming, Ethical Hacking, Bug Hunting & Penetratration Testing** on udemy.
 - Advanced Mathematics for Machine Learning, including Bayesian Statistics, Linear Algebra, and Probability.
 
 ## 📫 How to Reach Me
