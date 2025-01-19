@@ -10,21 +10,21 @@ I’m a student at Kafr El-Sheikh University pursuing a degree in Artificial Int
 
 ## 🛠️ My Technical Skills
 
-- **Programming Languages**: C++, Python, CUDA (currently learning and experimenting).
-- **Libraries & Tools**: PyTorch, CMake, Neovim (custom setup), JupyterLab.
-- **Platforms**: Arch Linux, Windows 11.
+- **Programming Languages**: C++, Python, Dart, CUDA (currently learning and experimenting).
+- **Libraries & Tools**: PyTorch, Pandas, Matplotlib, Flutter.
+- **Platforms**: Windows 11 (With WSL).
 
 ## 📈 What I’m Working On
 
 - **GAN Projects**: I’m building foundational GAN models to generate images (like handwritten digits) and exploring the details of model training and optimization.
-- **Neura Library**: Developing my own library called **Neura** focused on matrix operations and basic machine learning utilities, helping me deepen my understanding of core ML principles.
+- **Bloging Mobile App**: Developing a flutter application that users can write and read blogs on it for learning flutter.
 - **Competitive Programming**: Active on Codeforces, working to improve my problem-solving and algorithm skills, aiming to qualify for the ICPC.
 
 ## 📚 Currently Studying
 
-- **Deep Learning Specialization** by Andrew Ng on Coursera
-- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
-- **Red Teaming, Ethical Hacking, Bug Hunting & Penetratration Testing** on udemy.
+- **Deep Learning**: Studying Deep Learning Theory and Application.
+- **Operating Systems**: Studying how operating system work on low level .
+- **Full Stack Mobile Development with Flutter** Learning mobile development with flutter.
 - Advanced Mathematics for Machine Learning, including Bayesian Statistics, Linear Algebra, and Probability.
 
 ## 📫 How to Reach Me
