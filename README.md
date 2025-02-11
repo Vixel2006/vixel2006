@@ -17,8 +17,7 @@ I’m a student at Kafr El-Sheikh University pursuing a degree in Artificial Int
 ## 📈 What I’m Working On
 
 - **GAN Projects**: I’m building foundational GAN models to generate images (like handwritten digits) and exploring the details of model training and optimization.
-- **Bloging Mobile App**: Developing a flutter application that users can write and read blogs on it for learning flutter.
-- **Competitive Programming**: Active on Codeforces, working to improve my problem-solving and algorithm skills, aiming to qualify for the ICPC.
+- **Yolo V1 Reimplementation**: Reimplementing the Yolo v1 model from the paper *You only lock once*.
 
 ## 📚 Currently Studying
 
