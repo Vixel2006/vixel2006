@@ -26,9 +26,8 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ---
 
 ## 📚 **Currently Learning**  
-- **Deep Learning Theory & Applications**  
+- **GANS, VAE, and Diffusion**  
 - **Operating Systems (Low-Level Concepts)**  
-- **Full-Stack Mobile Development (Flutter)**  
 - **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
 
 ---
