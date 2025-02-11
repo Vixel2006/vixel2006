@@ -1,35 +1,42 @@
-# 👋 Hi there, I’m **Yusuf Shihata**!
+ # 👋 **Hi, I’m Yusuf Shihata!**  
 
-## 🚀 About Me
+## 🚀 **About Me**  
+I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine Learning, Theoretical CS, and AI Research**. My goal is to **build AI from first principles**—mastering both the **math** and the **code** behind it.  
 
-I’m a student at Kafr El-Sheikh University pursuing a degree in Artificial Intelligence Science. I'm passionate about machine learning, theoretical computer science, and diving into the math that powers AI. My goal is to build a strong foundation in both theory and programming, enabling me to contribute to innovative AI research and development in the future.
+### **🔬 Research Interests**  
+- **Machine Learning & AI** → Deep Learning, Generative Models (GANs, VAEs, Diffusion), and Multimodal Learning.  
+- **Mathematics for AI** → Probability, Linear Algebra, Topology, and Differential Geometry.  
+- **Computer Vision** → YOLO, Object Detection, and Image Synthesis.  
 
-- 🧠 **Learning Interests**: Machine Learning, Computer Vision, Generative Adversarial Networks (GANs), Deep Reinforcement Learning, and the mathematical foundations of AI.
-- 📊 **Mathematics Enthusiast**: I enjoy studying probability, linear algebra, and advanced topics like topology and differential geometry, aiming to build the abstract understanding needed for theoretical machine learning.
-- 🎯 **Aspirations**: To excel as an AI researcher and eventually pursue research that could make a meaningful impact in the field.
+---
 
-## 🛠️ My Technical Skills
+## 🛠️ **Technical Skills**  
+### **💻 Programming**  
+- **Python, C++, CUDA (WIP), Dart**  
 
-- **Programming Languages**: C++, Python, Dart, CUDA (currently learning and experimenting).
-- **Libraries & Tools**: PyTorch, Pandas, Matplotlib, Flutter.
-- **Platforms**: Windows 11 (With WSL).
+### **📚 Libraries & Tools**  
+- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker**  
 
-## 📈 What I’m Working On
+---
 
-- **GAN Projects**: I’m building foundational GAN models to generate images (like handwritten digits) and exploring the details of model training and optimization.
-- **Yolo V1 Reimplementation**: Reimplementing the Yolo v1 model from the paper *You only lock once*.
+## 📈 **Current Projects**  
+🔹 **YOLO v1 Reimplementation** – Rebuilding YOLO from scratch.  
+🔹 **GANs** – Training custom GANs for image generation.  
+🔹 **Deep Learning** – Studying theory + implementing architectures.  
 
-## 📚 Currently Studying
+---
 
-- **Deep Learning**: Studying Deep Learning Theory and Application.
-- **Operating Systems**: Studying how operating system work on low level .
-- **Full Stack Mobile Development with Flutter** Learning mobile development with flutter.
-- Advanced Mathematics for Machine Learning, including Bayesian Statistics, Linear Algebra, and Probability.
+## 📚 **Currently Learning**  
+- **Deep Learning Theory & Applications**  
+- **Operating Systems (Low-Level Concepts)**  
+- **Full-Stack Mobile Development (Flutter)**  
+- **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
 
-## 📫 How to Reach Me
+---
 
-- **Email**: yusufshihata2006@gmail.com
-- **LinkedIn**: www.linkedin.com/in/yusuf-mohamed-b6a25231b
-- **GitHub**: Feel free to explore my projects and see what I’m currently learning and building!
+## 📫 **Let's Connect!**  
+📩 **Email**: yusufshihata2006@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/yusuf-mohamed-b6a25231b](https://www.linkedin.com/in/yusuf-mohamed-b6a25231b)  
+💻 **GitHub**: *Explore my projects!*  
 
-I’m always open to connecting with others who share an interest in AI, machine learning, and theoretical computer science. Let’s learn and grow together!
+⚡ **Always open to AI discussions, collaborations, and research opportunities!**  
