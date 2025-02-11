@@ -5,8 +5,7 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 
 ### **🔬 Research Interests**  
 - **Machine Learning & AI** → Deep Learning, Generative Models (GANs, VAEs, Diffusion), and Multimodal Learning.  
-- **Mathematics for AI** → Probability, Linear Algebra, Topology, and Differential Geometry.  
-- **Computer Vision** → YOLO, Object Detection, and Image Synthesis.  
+ - **Computer Vision** → YOLO, Object Detection, and Image Synthesis.  
 
 ---
 
