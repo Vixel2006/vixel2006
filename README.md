@@ -19,9 +19,9 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ---
 
 ## 📈 **Current Projects**  
-🔹 **YOLO v1 Reimplementation** – Rebuilding YOLO from scratch.  
-🔹 **GANs** – Training custom GANs for image generation.  
-🔹 **Deep Learning** – Studying theory + implementing architectures.  
+🔹 **Neura** – A complete Deep Learning framework written in mojo.  
+🔹 **IMDB Review Sentiment Analysis** – Recreating the Encoder Transformer from the Attention is all you need paper to do sentiment analysis on IMDB reviews.
+🔹 **Deep Learning** – Studying theory + implementing architectures.
 
 ---
 
