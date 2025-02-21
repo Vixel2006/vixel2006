@@ -19,6 +19,7 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 
 ## 📈 **Current Projects**  
 🔹 **Neura** – A complete Deep Learning framework written in Rust.
+
 🔹 **Deep Learning** – Studying theory + implementing architectures.
 
 ---
