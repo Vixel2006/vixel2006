@@ -20,12 +20,12 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ## 📈 **Current Projects**  
 🔹 **Neura** – A complete Deep Learning framework written in Rust.
 
-🔹 **Deep Learning** – Studying theory + implementing architectures.
+🔹 **Diffusion-GAN** – Studying theory + implementing architectures.
 
 ---
 
 ## 📚 **Currently Learning**  
-- **GANS, VAE, and Diffusion**  
+- **Diffusion-GANs**  
 - **Operating Systems (Low-Level Concepts)**  
 - **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
 
