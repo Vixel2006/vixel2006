@@ -25,7 +25,7 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ---
 
 ## 📚 **Currently Learning**  
-- **Diffusion-GANs**  
+- **ViT (Vision Transformer)**  
 - **Operating Systems (Low-Level Concepts)**  
 - **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
 
