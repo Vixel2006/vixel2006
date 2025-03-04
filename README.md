@@ -10,7 +10,7 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 
 ## 🛠️ **Technical Skills**  
 ### **💻 Programming**  
-- **Python, C++, CUDA (WIP), Rust (WIP)**  
+- **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
 
 ### **📚 Libraries & Tools**  
 - **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker**  
@@ -20,13 +20,13 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ## 📈 **Current Projects**  
 🔹 **Neura** – A complete Deep Learning framework written in Rust.
 
-🔹 **Diffusion-GAN** – Studying theory + implementing architectures.
+🔹 **Multimodal Learning** – Studying theory + implementing architectures.
 
 ---
 
 ## 📚 **Currently Learning**  
-- **ViT (Vision Transformer)**  
-- **Operating Systems (Low-Level Concepts)**  
+- **Multimodal Learning**  
+- **Data Engineering**  
 - **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
 
 ---
