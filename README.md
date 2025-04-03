@@ -18,16 +18,17 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ---
 
 ## 📈 **Current Projects**  
-🔹 **Neura** – A complete Deep Learning framework written in Rust.
+🔹 **MulT** – An Implemenation of the Multimodal transformer architecture for multimodal sentiment analysis.
 
-🔹 **Multimodal Learning** – Studying theory + implementing architectures.
 
 ---
 
 ## 📚 **Currently Learning**  
 - **Multimodal Learning**  
-- **Data Engineering**  
-- **Advanced Math for AI (Bayesian Stats, Linear Algebra, Probability)**  
+- **Convex Optimization**  
+- **Bayesian Stats**
+- **Computer Systems Programming**
+- **Parallel Programming with CUDA**
 
 ---
 
