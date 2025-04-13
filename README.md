@@ -26,9 +26,10 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 ## 📚 **Currently Learning**  
 - **Multimodal Learning**  
 - **Convex Optimization**  
-- **Bayesian Stats**
+- **IoT and Embedded Systems**
 - **Computer Systems Programming**
 - **Parallel Programming with CUDA**
+- **Backend Development with Django**
 
 ---
 
