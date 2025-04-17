@@ -13,12 +13,13 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 - **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
 
 ### **📚 Libraries & Tools**  
-- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker**  
+- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, Django, PostgreSQL**  
 
 ---
 
 ## 📈 **Current Projects**  
 🔹 **MulT** – An Implemenation of the Multimodal transformer architecture for multimodal sentiment analysis.
+🔹 **men.ai** - A SaaS startup in Edtech
 
 
 ---
