@@ -19,7 +19,8 @@ I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine
 
 ## 📈 **Current Projects**  
 🔹 **MulT** – An Implemenation of the Multimodal transformer architecture for multimodal sentiment analysis.
-🔹 **men.ai** - A SaaS startup in Edtech
+
+🔹 **men.ai** - A SaaS startup the produces Edtech solutions.
 
 
 ---
