@@ -1,7 +1,7 @@
  # 👋 **Hi, I’m Yusuf Shihata!**  
 
 ## 🚀 **About Me**  
-I’m an AI student at **Kafr El-Sheikh University**, passionate about **Machine Learning, Theoretical CS, and AI Research**. My goal is to **build AI from first principles**—mastering both the **math** and the **code** behind it.  
+I’m an AI Science student at **Kafr El-Sheikh University**, passionate about **Machine Learning, Theoretical CS, and AI Research**. My goal is to **build AI from first principles**—mastering both the **math** and the **code** behind it.  
 
 ### **🔬 Research Interests**  
 - **Machine Learning & AI** → Deep Learning, Generative Models (GANs, VAEs, Diffusion), and Multimodal Learning. 
