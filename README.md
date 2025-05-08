@@ -20,7 +20,7 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 ## 📈 **Current Projects**  
 🔹 **MulT** – An Implemenation of the Multimodal transformer architecture for multimodal sentiment analysis.
 
-🔹 **men.ai** - A SaaS startup the produces Edtech solutions.
+🔹 **Neura** - A Rust Tensor framework for deep learning purposes.
 
 
 ---
