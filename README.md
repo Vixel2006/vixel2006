@@ -33,19 +33,6 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 - **Backend Development with FastAPI**
 
 ---
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yushi2006&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=yushi2006&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi2006&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=yushi2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 📫 **Let's Connect!**  
 📩 **Email**: yusufshihata2006@gmail.com  
