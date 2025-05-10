@@ -13,7 +13,7 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 - **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
 
 ### **📚 Libraries & Tools**  
-- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, Django, PostgreSQL**  
+- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, FastAPI, PostgreSQL**  
 
 ---
 
@@ -28,10 +28,9 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 ## 📚 **Currently Learning**  
 - **Multimodal Learning**  
 - **Convex Optimization**  
-- **IoT and Embedded Systems**
 - **Computer Systems Programming**
 - **Parallel Programming with CUDA**
-- **Backend Development with Django**
+- **Backend Development with FastAPI**
 
 ---
 
