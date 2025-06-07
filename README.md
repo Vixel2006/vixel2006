@@ -22,6 +22,8 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 
 🔹 **Neura** - A Rust Tensor framework for deep learning purposes.
 
+🔹 **huggingface/transformers** - Open-Source contribution to the huggingface transformers module, implementing the Multimodal Transformer for unaligned modalities encoding.
+
 
 ---
 
