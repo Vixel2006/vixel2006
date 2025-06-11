@@ -18,7 +18,6 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 ---
 
 ## 📈 **Current Projects**  
-🔹 **Modality-Aware Fusion** – A research project in multimodal learning developing an early-fusion technique which can think in multimodal space and also understand each modality independently.
 
 🔹 **Neura** - A Rust Tensor framework for deep learning purposes.
 
