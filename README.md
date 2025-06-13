@@ -21,7 +21,7 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 
 🔹 **Neura** - A Tensor framework for deep learning purposes using Python and CUDA.
 
-🔹 **transformers** - Open-Source contribution to the huggingface transformers module, implementing the Multimodal Transformer for unaligned modalities encoding.
+🔹 **transformers** - Open-Source contribution to the huggingface transformers module, working on fixing bugs and implementing new features.
 
 
 ---
