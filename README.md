@@ -23,6 +23,8 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 
 🔹 **transformers** - Open-Source contribution to the huggingface transformers module, working on fixing bugs and implementing new features.
 
+🔹 **GRF** - A new fusion architecture that can do effiecent fusion and scale linearly with number of modalties for limited compute tasks like in robotics and self-driving cars.
+
 
 ---
 
