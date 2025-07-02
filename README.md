@@ -1,7 +1,8 @@
  # 👋 **Hi, I’m Yusuf Shihata!**  
 
 ## 🚀 **About Me**  
-I’m an AI Science student at **Kafr El-Sheikh University**, passionate about **Machine Learning, Theoretical CS, and AI Research**. My goal is to **build AI from first principles**—mastering both the **math** and the **code** behind it.  
+I treat deep learning like physics — break it down, rebuild it from scratch. Dropped **Gated Recursive Fusion** at 19, a stateful multimodal model I designed and published solo. Rebuiling PyTorch from scratch, shipped real features to Hugging Face. I train models and break limits — research is the mission, freelance keeps the GPUs fed.
+
 
 ### **🔬 Research Interests**  
 - **Machine Learning & AI** → Deep Learning, Generative Models (GANs, VAEs, Diffusion), and Multimodal Learning. 
@@ -13,7 +14,7 @@ I’m an AI Science student at **Kafr El-Sheikh University**, passionate about *
 - **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
 
 ### **📚 Libraries & Tools**  
-- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, PostgreSQL**  
+- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, PostgreSQL, Langchain**  
 
 ---
 
