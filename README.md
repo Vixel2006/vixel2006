@@ -14,7 +14,7 @@ I treat deep learning like physics — break it down, rebuild it from scratch. D
 - **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
 
 ### **📚 Libraries & Tools**  
-- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, PostgreSQL, Langchain**  
+- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, PostgreSQL, Langchain, React Native, FastApi**  
 
 ---
 
