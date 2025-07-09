@@ -24,8 +24,6 @@ I treat deep learning like physics — break it down, rebuild it from scratch. D
 
 🔹 **transformers** - Open-Source contribution to the huggingface transformers module, working on fixing bugs and implementing new features.
 
-🔹 **GRF** - A new fusion architecture that can do effiecent fusion and scale linearly with number of modalties for limited compute tasks like in robotics and self-driving cars.
-
 🔹 **PoktAid** - A mobile application for ai-assested first aid completely offline for medical reasons.
 
 ---
