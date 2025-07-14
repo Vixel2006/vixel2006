@@ -20,7 +20,7 @@ I treat deep learning like physics — break it down, rebuild it from scratch. D
 
 ## 📈 **Current Projects**  
 
-🔹 **Neura** - A Tensor framework for deep learning purposes using Python and CUDA.
+🔹 **Nawah** - A Tensor framework for deep learning purposes using Python and CUDA.
 
 🔹 **transformers** - Open-Source contribution to the huggingface transformers module, working on fixing bugs and implementing new features.
 
