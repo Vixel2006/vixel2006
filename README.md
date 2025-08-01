@@ -1,44 +1,64 @@
- # 👋 **Hi, I’m Yusuf Shihata!**  
+# 👋 Hey, I’m Yusuf Shihata
 
-## 🚀 **About Me**  
-I treat deep learning like physics — break it down, rebuild it from scratch. Dropped **Gated Recursive Fusion** at 19, a stateful multimodal model I designed and published solo. Rebuiling PyTorch from scratch, shipped real features to Hugging Face. I train models and break limits — research is the mission, freelance keeps the GPUs fed.
+## 🧠 Researcher. 🔧 Engineer. 🚀 Builder.
 
+I treat deep learning like physics — tear it down, understand the math, rebuild it from scratch.  
+At 19, I solo-authored the **Gated Recursive Fusion (GRF)** model — a novel stateful multimodal architecture.  
+I’m building **Nawah**, a new deep learning framework from the ground up — think PyTorch, reimagined.  
 
-### **🔬 Research Interests**  
-- **Machine Learning & AI** → Deep Learning, Generative Models (GANs, VAEs, Diffusion), and Multimodal Learning. 
-
----
-
-## 🛠️ **Technical Skills**  
-### **💻 Programming**  
-- **Python, C++, SQL, CUDA (WIP), Rust (WIP)**  
-
-### **📚 Libraries & Tools**  
-- **PyTorch, Pandas, Matplotlib, Numpy, Seaborn, Docker, PostgreSQL, Langchain, React Native, FastApi**  
+🛠️ Shipped features to **Hugging Face**.  
+🧪 Do research to push frontiers.   
+🔥 I don’t just use tools — I build them.
 
 ---
 
-## 📈 **Current Projects**  
-
-🔹 **Nawah** - A Tensor framework for deep learning purposes using Python and CUDA.
-
-🔹 **transformers** - Open-Source contribution to the huggingface transformers module, working on fixing bugs and implementing new features.
-
-🔹 **PoktAid** - A mobile application for ai-assested first aid completely offline for medical reasons.
-
----
-
-## 📚 **Currently Learning**  
+## 🔬 Research Interests
+- **Deep Learning** (from first principles)
 - **Multimodal Learning**  
-- **Convex Optimization**  
-- **Computer Systems Programming**
-- **Parallel Programming with CUDA**
+- **Generative Models** (VAEs, GANs, Diffusion)  
+- **Efficient Model Architectures & Training Systems**  
 
 ---
 
-## 📫 **Let's Connect!**  
-📩 **Email**: yusufshihata2006@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/yusuf-mohamed-b6a25231b](https://www.linkedin.com/in/yusuf-mohamed-b6a25231b)  
-💻 **GitHub**: *Explore my projects!*  
+## ⚒️ Technical Stack
 
-⚡ **Always open to AI discussions, collaborations, and research opportunities!**  
+### 💻 Languages  
+`Python` | `C++` | `CUDA` (in progress) | `Rust` (learning) | `SQL`
+
+### 🧰 Frameworks & Tools  
+`PyTorch` | `Numpy` | `Matplotlib` | `LangChain` | `Docker` | `FastAPI` | `React Native` | `PostgreSQL`
+
+---
+
+## 🚧 Projects I'm Building
+
+### 🧠 [**Nawah**](https://github.com/vixel2006/nawah)  
+A deep learning framework built from first principles — minimal, transparent, and designed for full control. Nawah isn’t a clone; it’s a rethink of how we build and reason about AI systems.
+
+### 🤖 [**GRF**](https://github.com/vixel2006/GRF) (Gated Recursive Fusion)  
+My original research model — a stateful multimodal fusion approach. Extension to generation in the works.
+
+### 🩺 [**PoktAid**](https://github.com/vixel/poktAid)  
+Offline-first AI-powered mobile app for emergency first aid. Built with React Native.
+
+### 🤝 Hugging Face Transformers  
+Contributing features and bugfixes upstream.
+
+---
+
+## 📚 Currently Learning
+- 📘 **Convex Optimization**  
+- 🖥 **Computer Systems / Parallel Programming (CUDA)**  
+- 📷 **Multimodal Model Design**
+
+---
+
+## 🌐 Connect With Me
+📫 Email: **yusufshihata2006@gmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/yusuf-mohamed-b6a25231b)  
+💻 [**GitHub**](https://github.com/yushi2006) — *check out my pinned repos!*  
+
+---
+
+> ⚡ I build systems that scale and models that reason. Open to collaboration, research, or just vibing on cool AI ideas.
+
