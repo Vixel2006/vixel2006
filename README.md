@@ -1,8 +1,8 @@
 # Yusuf Shihata
 
-## Systems Engineer | Deep Learning Researcher | Builder
+## Software Engineer | Deep Learning Researcher | Builder
 
-I build software and AI systems that work. Full stop. I **write the frameworks I use**, extend open-source libraries, and push research boundaries. My code isn’t polished for appearances—it works, scales, and does what it’s supposed to do.
+I build software and AI systems that work. Full stop. At 19, I **write the frameworks I use**, extend open-source libraries, and push research boundaries. My code isn’t polished for appearances—it works, scales, and does what it’s supposed to do.
 
 I **contribute to Hugging Face**, build **Nawah** from scratch, and experiment with tools that others only talk about. I don’t follow trends—I make tools that matter.
 
@@ -25,7 +25,7 @@ I **contribute to Hugging Face**, build **Nawah** from scratch, and experiment w
 
 **PoktAid** — Offline-first AI-powered mobile app for emergency first aid.
 
-**Markly / SaaS Projects** — Building cloud-based knowledge management SaaS using Go, React, Langchain, and MongoDB.
+**Markly / SaaS Projects** — Building cloud-based knowledge management SaaS using Go, React, LangChain, and MongoDB.
 
 **Hugging Face Transformers** — Contributing features, docs, and bug fixes upstream.
 
