@@ -1,49 +1,51 @@
 # Yusuf Shihata
 
-## Software Engineer | Deep Learning Researcher | Builder
+## Systems Engineer | Hardcore Programmer | Builder
 
-I build software and AI systems that work. Full stop. At 19, I **write the frameworks I use**, extend open-source libraries, and push research boundaries. My code isn’t polished for appearances—it works, scales, and does what it’s supposed to do.
+I don’t chase hype. I build systems from the ground up — compilers, frameworks, backends, and infra that actually *run*.  
+At 19, I’ve written my own deep learning framework in **C/C++/CUDA**, designed a custom multimodal model (**GRF — Gated Recursive Fusion**), hacked on compilers in **Rust**, and built SaaS products from scratch.  
 
-I **contribute to Hugging Face**, build **Nawah** from scratch, and experiment with tools that others only talk about. I don’t follow trends—I make tools that matter.
+My code isn’t for show. It’s low-level, fast, and does the job. I don’t make toy projects — I make systems you can build on.
 
 ---
 
 ## What I Do
 
-* Build end-to-end systems: **from tensor cores to full AI pipelines**
-* Design **multimodal and generative models**
-* Optimize and push **Python, C++, CUDA, Rust, Go, React** to their limits
-* Build SaaS products and full-stack applications with **MongoDB, Go, React**
+* Write **high-performance systems** in C, C++, and Rust  
+* Build **deep learning frameworks and compilers** from scratch  
+* Engineer **parallel and GPU systems** with CUDA  
+* Design and implement **SaaS backends and full-stack apps** (Go, React, MongoDB)  
+* Contribute upstream to open source projects  
 
 ---
 
 ## Key Projects
 
-**Nawah** — Deep learning framework built from scratch. Minimal, transparent, fully controllable. Not a clone.
+**Nawah** — Open source Deep learning framework written in C/Cuda. Minimal, transparent, controllable.  
 
-**GRF (Gated Recursive Fusion)** — Stateful multimodal fusion model. Extending to generation.
+**TinyC** — Toy compiler in Rust. Lexer, parser, IR, and experiments with optimization.  
 
-**PoktAid** — Offline-first AI-powered mobile app for emergency first aid.
+**GRF** — Custom model architecture for multimodal fusion. Research-grade, now on hold while I double down on systems.  
 
-**Markly / SaaS Projects** — Building cloud-based knowledge management SaaS using Go, React, LangChain, and MongoDB.
+**PoktAid** — Offline-first mobile app (React Native) for AI-powered first aid guidance.  
 
-**Hugging Face Transformers** — Contributing features, docs, and bug fixes upstream.
+**Markly / SaaS Projects** — Cloud-based knowledge management and AI tooling (Go, React, MongoDB).  
 
 ---
 
 ## Stack & Tools
 
-`Python` | `C++` | `CUDA` | `Rust` | `Go` | `React` | `MongoDB` | `SQL` | `PyTorch` | `LangChain` | `Docker` | `React Native` | `PostgreSQL`
+`C` | `C++` | `Rust` | `Go` | `Python` | `CUDA` | `React` | `MongoDB` | `PostgreSQL` | `Docker` | `LangChain` | `React Native`
 
 ---
 
 ## Current Focus
 
-* Parallel and GPU systems
-* Multimodal & generative model design
-* Convex optimization
-* SaaS architecture and cloud-based full-stack systems
+* Systems programming and compiler design  
+* GPU programming and parallelization  
+* SaaS infrastructure and backend design  
+* Making tools that *last* instead of chasing trends  
 
 ---
 
-> I don’t do PR. I do work that matters. My GitHub is messy, wild, and full of things that actually work. If that bothers you, move along.
+> My GitHub is messy, raw, and real — because the code works. If you want polished marketing repos, look elsewhere. If you want hardcore systems work, you’re in the right place.
