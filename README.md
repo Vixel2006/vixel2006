@@ -21,7 +21,7 @@ My code isn’t for show. It’s low-level, fast, and does the job. I don’t ma
 
 ## Key Projects
 
-**Nawah** — Open source Deep learning framework written in C/Cuda. Minimal, transparent, controllable.  
+**Axon** — Open source Deep learning framework written in C/Cuda. Minimal, transparent, controllable.  
 
 **TinyC** — Toy compiler in Rust. Lexer, parser, IR, and experiments with optimization.  
 
