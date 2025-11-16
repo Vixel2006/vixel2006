@@ -1,51 +1,32 @@
-# Yusuf Shihata
+# Hi, I'm Yusuf Shihata 👋
 
-## Systems Engineer | Hardcore Programmer | Builder
-
-I don’t chase hype. I build systems from the ground up — compilers, frameworks, backends, and infra that actually *run*.  
-At 19, I’ve written my own deep learning framework in **C/C++/CUDA**, designed a custom multimodal model (**GRF — Gated Recursive Fusion**), hacked on compilers in **Rust**, and built SaaS products from scratch.  
-
-My code isn’t for show. It’s low-level, fast, and does the job. I don’t make toy projects — I make systems you can build on.
+Software Engineer with a strong focus on Computer Science, AI, and high-performance systems. I enjoy building things from first principles — compilers, deep learning frameworks, CUDA kernels, and experimental architectures. I learn fast, move fast, and love solving complex problems with elegant code.
 
 ---
 
-## What I Do
-
-* Write **high-performance systems** in C, C++, and Rust  
-* Build **deep learning frameworks and compilers** from scratch  
-* Engineer **parallel and GPU systems** with CUDA  
-* Design and implement **SaaS backends and full-stack apps** (Go, React, MongoDB)  
-* Contribute upstream to open source projects  
+## 🔧 What I Work On
+- **Systems & Low-Level Engineering:** Rust, C, LLVM, compilers, code generation  
+- **Machine Learning & AI:** model training, optimization, custom tensor engines  
+- **High-Performance Computing:** CUDA, GPU kernels, memory layouts, scheduling  
 
 ---
 
-## Key Projects
-
-**Axon** — Open source Deep learning framework written in C/Cuda. Minimal, transparent, controllable.  
-
-**TinyC** — Toy compiler in Rust. Lexer, parser, IR, and experiments with optimization.  
-
-**GRF** — Custom model architecture for multimodal fusion. Research-grade, now on hold while I double down on systems.  
-
-**PoktAid** — Offline-first mobile app (React Native) for AI-powered first aid guidance.  
-
-**Markly / SaaS Projects** — Cloud-based knowledge management and AI tooling (Go, React, MongoDB).  
+## 🧠 Current Focus
+- Building **Axon**, a high-performance compute/runtime system with CUDA backends  
+- Contributing to **Hugging Face** to deepen experience in real ML infrastructure  
+- Developing **a custom compiler** with LLVM codegen  
+- Experimenting with **recursive fusion models** and efficient computation graphs  
 
 ---
 
-## Stack & Tools
-
-`C` | `C++` | `Rust` | `Go` | `Python` | `CUDA` | `React` | `MongoDB` | `PostgreSQL` | `Docker` | `LangChain` | `React Native`
-
----
-
-## Current Focus
-
-* Systems programming and compiler design  
-* GPU programming and parallelization  
-* SaaS infrastructure and backend design  
-* Making tools that *last* instead of chasing trends  
+## 🚀 Highlights
+- Started studying university-level math and programming at age **12**  
+- Comfortable with complex abstractions and fast problem-solving  
+- Strong intuition for system design and algorithmic thinking  
+- Passionate about AI research, performance engineering, and meaningful software
 
 ---
 
-> My GitHub is messy, raw, and real — because the code works. If you want polished marketing repos, look elsewhere. If you want hardcore systems work, you’re in the right place.
+## 📫 Connect With Me
+- **GitHub:** https://github.com/Vixel2006
+- **Linkedin:** https://www.linkedin.com/in/yusufmohamed2006
